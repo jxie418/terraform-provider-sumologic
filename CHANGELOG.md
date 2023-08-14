@@ -1,4 +1,6 @@
 ## 2.25.1 (Unreleased)
+FEATURES:
+* **New Resource:** sumologic_muting_schedule
 
 ## 2.25.0 (August 8, 2023)
 FEATURES:
